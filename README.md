@@ -1,2 +1,2 @@
 # Word-Counter
-The CLI-Based Word Counter App is a robust command-line tool built with TypeScript, designed to enhance your writing productivity. It efficiently counts words, characters, and lines in any text file, providing a seamless and intuitive user experience. 
+𝘛𝘩𝘦 𝘊𝘓𝘐 𝘞𝘰𝘳𝘥 𝘊𝘰𝘶𝘯𝘵𝘦𝘳 𝘈𝘱𝘱 𝘪𝘴 𝘢 𝘱𝘰𝘸𝘦𝘳𝘧𝘶𝘭 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘤𝘰𝘮𝘮𝘢𝘯𝘥-𝘭𝘪𝘯𝘦 𝘵𝘰𝘰𝘭 𝘵𝘩𝘢𝘵 𝘤𝘰𝘶𝘯𝘵𝘴 𝘸𝘰𝘳𝘥𝘴, 𝘣𝘰𝘰𝘴𝘵𝘪𝘯𝘨 𝘸𝘳𝘪𝘵𝘪𝘯𝘨 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘷𝘪𝘵𝘺 𝘸𝘪𝘵𝘩 𝘦𝘢𝘴𝘦. 
